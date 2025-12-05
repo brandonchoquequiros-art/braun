@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of NeuroNotion",
+  "description": "An AI-powered study companion that connects your physical notebook to the digital world. Scan notes to create quizzes, visualize concepts with GenAI, and practice with a voice tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
